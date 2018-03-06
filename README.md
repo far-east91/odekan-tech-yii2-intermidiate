@@ -2,7 +2,7 @@ Yii Framework Training by Odekan-Tech
 =====================================
 We will not follow this guide in ascending order manner. In this training/coaching, we will focus on develop internal system as specified by the client.
 
-[![Our Banner](images/banner.jpg)](https://www.odekan.my)
+[![Our Banner](images/banner.png)](https://www.odekan.my)
 
 This guide or module is exactly the same as the original copy of the documentation. You may refer to the original copy by clicking [here](https://github.com/yiisoft/yii2/tree/master/docs/guide).
 
